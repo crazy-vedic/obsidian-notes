@@ -1,0 +1,1 @@
+Static means that you don't need to create an actual object of "main" before using the method, but can directly call main()
