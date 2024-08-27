@@ -1,1 +1,0 @@
-Money required to sustain a business until it reaches the break even point and starts generating income.

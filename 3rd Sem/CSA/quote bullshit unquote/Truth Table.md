@@ -1,0 +1,1 @@
+Represents output with respect to input combination

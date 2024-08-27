@@ -1,0 +1,13 @@
+	X+0 = X
+	X+1 = X
+	X+~X=X
+	X+X=X
+	X+y=y+x
+	x.0=0
+	x.1=x
+	x.x=x
+	x.~x=0
+	x.y=y.x
+	x+(y+z) = (x+y)+z
+	x.(y.z) = (x.y).z
+	x+(y+z) = x.y+x.z

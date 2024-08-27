@@ -1,0 +1,1 @@
+Position of the waveform relative to time O. IF we think of wave as something that can be shifted backwards or forwards along the time axis, phase describes the amount of that shift, indicating the shift of the first cycle relative to time O.

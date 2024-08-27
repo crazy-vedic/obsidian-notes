@@ -1,0 +1,2 @@
+Occurs in composite signal, each frequency component has its own propagation speed travelling through a medium, therefore the componenets arrive with different delays.
+That means that signals have a different phase at reciever than they did at source
