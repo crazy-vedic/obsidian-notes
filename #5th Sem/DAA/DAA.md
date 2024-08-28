@@ -17,3 +17,4 @@ is the asymptotic behavior of a function is a study of how a value of a function
 Using asymptotic notation we can easily find the time efficiency of the algorithm
 
 [[Divide and Conquer]]
+[[Recurrence Relation]]

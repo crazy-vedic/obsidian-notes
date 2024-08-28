@@ -1,4 +1,4 @@
-Attendance 5 marks
+	kAttendance 5 marks
 Presentation 10 marks
 Tutorial Copy 10 marks
 Class test 5 marks
@@ -31,4 +31,4 @@ class B
 bits borrowed = log2(no. of subnets)
 200.1.2.0/00,01,10,11
 
-5 bits borrwed
+5 bits borrowed
